@@ -3,4 +3,5 @@ mediapipe
 numpy
 joblib
 scikit-learn
-pyttsx3
+edge-tts
+pygame
