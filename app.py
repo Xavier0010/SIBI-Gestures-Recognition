@@ -199,7 +199,7 @@ while True:
             img[y1:y2, x1:x2] = logo
 
     font_small = cv2.FONT_HERSHEY_SIMPLEX
-    lang_text = f"Lang: {current_lang} (Press 'L')"
+    lang_text = f"Language: {current_lang} (Press 'L')"
     # Put it in the top left corner
     cv2.putText(img, lang_text, (20, 40), font_small, 0.8, (0, 0, 0), 3, cv2.LINE_AA)
     cv2.putText(img, lang_text, (20, 40), font_small, 0.8, COLOR_ACCENT, 2, cv2.LINE_AA)
