@@ -8,5 +8,4 @@ aset-03.png
 *.pdf
 
 # Notebook
-*.ipynb
 .ipynb_checkpoints/
