@@ -1,0 +1,12 @@
+# logo & assets
+aset-03.png
+
+# Dataset
+*.csv
+
+# Docs
+*.pdf
+
+# Notebook
+*.ipynb
+.ipynb_checkpoints/
